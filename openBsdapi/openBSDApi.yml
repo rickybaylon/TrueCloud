@@ -1,0 +1,8 @@
+---
+secrets:
+  - 361cde6180712927b7347cda7efb998d395cf8a0
+
+appfiles:
+  openbsdconfig: etc/openbsd.json
+  openapispec: public/apispec.yaml
+  
